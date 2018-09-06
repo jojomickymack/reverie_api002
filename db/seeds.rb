@@ -202,13 +202,6 @@ Content.create(
 )
 
 Content.create(
-	url: 'haxe/captain',
-	content_type: 'game',
-	title: 'the captain',
-	iframe_path: '/projects/games/basic001/index.html'
-)
-
-Content.create(
 	url: 'canvas/stars',
 	content_type: 'game',
 	title: 'spinning stars',
@@ -227,20 +220,6 @@ Content.create(
 	content_type: 'game',
 	title: 'phaser3 verts',
 	iframe_path: '/projects/games/physics02/index.html'
-)
-
-Content.create(
-	url: 'games/tutorial',
-	content_type: 'game',
-	title: 'side walker',
-	iframe_path: '/projects/games/tutorial001/index.html'
-)
-
-Content.create(
-	url: 'games/platformer',
-	content_type: 'game',
-	title: 'lil dan',
-	iframe_path: '/projects/games/platformer001/index.html'
 )
 
 Content.create(
