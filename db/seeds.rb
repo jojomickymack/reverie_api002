@@ -20,7 +20,7 @@ Content.create(
 	url: 'games/rabid-monkey',
 	content_type: 'game',
 	title: 'rabid monkey',
-	iframe_path: '/projects/games/rabid_monkey/index.html'
+	iframe_path: '/games/phaser/rabid_monkey/index.html'
 )
 
 Content.create(
@@ -184,61 +184,61 @@ Content.create(
 	url: 'sketch/reverse_fluid-url',
 	content_type: 'game',
 	title: 'reverse_fluid',
-	iframe_path: '/projects/p5_sketches/fluid_resistance001/index.html'
+	iframe_path: '/games/p5/fluid_resistance001/index.html'
 )
 
 Content.create(
 	url: 'sketch/spirals-url',
 	content_type: 'game',
 	title: 'spirals',
-	iframe_path: '/projects/p5_sketches/spirals001/index.html'
+	iframe_path: '/games/p5/spirals001/index.html'
 )
 
 Content.create(
 	url: 'sketch/sound',
 	content_type: 'game',
 	title: 'sound sketch',
-	iframe_path: '/projects/p5_sketches/sound001/index.html'
+	iframe_path: '/games/p5/sound001/index.html'
 )
 
 Content.create(
 	url: 'canvas/stars',
 	content_type: 'game',
 	title: 'spinning stars',
-	iframe_path: '/projects/canvas_projects/stars001/index.html'
+	iframe_path: '/games/canvas/stars001/index.html'
 )
 
 Content.create(
 	url: 'canvas/stars2',
 	content_type: 'game',
 	title: 'plain stars',
-	iframe_path: '/projects/canvas_projects/stars002/index.html'
+	iframe_path: '/games/canvas/stars002/index.html'
 )
 
 Content.create(
 	url: 'games/physics02',
 	content_type: 'game',
 	title: 'phaser3 verts',
-	iframe_path: '/projects/games/physics02/index.html'
+	iframe_path: '/games/games/phaser/physics02/index.html'
 )
 
 Content.create(
 	url: 'sketch/cubes-url',
 	content_type: 'game',
 	title: 'cubes',
-	iframe_path: '/projects/p5_sketches/cubes001/index.html'
+	iframe_path: '/games/p5/cubes001/index.html'
 )
 
 Content.create(
 	url: 'sketch/particles-url',
 	content_type: 'game',
 	title: 'particles',
-	iframe_path: '/projects/p5_sketches/particles001/index.html'
+	iframe_path: '/games/p5/particles001/index.html'
 )
 
 Content.create(
 	url: 'sketch/sphere-url',
 	content_type: 'game',
 	title: 'sphere',
-	iframe_path: '/projects/threejs_projects/sphere002/index.html'
+	iframe_path: '/games/threejs/sphere002/index.html'
 )
