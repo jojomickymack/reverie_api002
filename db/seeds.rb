@@ -17,7 +17,7 @@ Content.create(
 )
 
 Content.create(
-	url: 'blog/nginx',
+	url: 'blog/nginx-config',
 	content_type: 'blog',
 	title: 'Nginx: Millions Served',
 	long_title: 'nginx set up tips',
