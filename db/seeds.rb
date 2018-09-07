@@ -17,6 +17,15 @@ Content.create(
 )
 
 Content.create(
+	url: 'blog/nginx',
+	content_type: 'blog',
+	title: 'Nginx: Millions Served',
+	long_title: 'nginx set up tips',
+	title_img_path: '/blog/nginx/nginx.png',
+	markdown_path: '/blog/nginx/nginx.md'
+)
+
+Content.create(
 	url: 'games/rabid-monkey',
 	content_type: 'game',
 	title: 'rabid monkey',
