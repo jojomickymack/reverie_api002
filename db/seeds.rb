@@ -33,6 +33,15 @@ Content.create(
 )
 
 Content.create(
+	url: 'blog/ashley-ecs',
+	content_type: 'blog',
+	title: 'LibGDX Ashley',
+	long_title: 'LibGDX Ashley is an Entity Component System Framework',
+	title_img_path: '/blog/ashley_ecs/ashley_ecs.png',
+	markdown_path: '/blog/ashley_ecs/ashley_ecs.md'
+)
+
+Content.create(
 	url: 'blog/android-url',
 	content_type: 'blog',
 	title: 'androidx86',
