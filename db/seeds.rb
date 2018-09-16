@@ -1,4 +1,13 @@
 Content.create(
+	url: 'blog/gitlab-ci',
+	content_type: 'blog',
+	title: 'Gitlab: Auto-Dev-Ops',
+	long_title: 'Gitlab Has Interesting Continuous Integration Features',
+	title_img_path: '/blog/gitlab_ci/gitlab_ci.png',
+	markdown_path: '/blog/gitlab_ci/gitlab_ci.md'
+)
+
+Content.create(
 	url: 'blog/web-apps',
 	content_type: 'blog',
 	title: 'NWjs, Cordova, and Chrome',
