@@ -51,7 +51,7 @@ Content.create(
 )
 
 Content.create(
-	url: 'blog/docker',
+	url: 'blog/docker-vm',
 	content_type: 'blog',
 	title: 'Docker: Contained Environments',
 	long_title: 'What Docker Is For And How To Use It On Windows',
