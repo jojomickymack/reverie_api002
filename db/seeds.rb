@@ -51,6 +51,15 @@ Content.create(
 )
 
 Content.create(
+	url: 'blog/docker',
+	content_type: 'blog',
+	title: 'Docker: Contained Environments',
+	long_title: 'What Docker Is For And How To Use It On Windows',
+	title_img_path: '/blog/docker/docker.png',
+	markdown_path: '/blog/docker/docker.md'
+)
+
+Content.create(
 	url: 'blog/android-url',
 	content_type: 'blog',
 	title: 'androidx86',
