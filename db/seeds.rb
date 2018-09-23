@@ -55,8 +55,8 @@ Content.create(
 	content_type: 'blog',
 	title: 'Docker And Kubernetes With Gitlab',
 	long_title: 'How To Get Started With Gitlab, Docker And Kubernetes',
-	title_img_path: '/blog/docker_kubenetes/docker_kubenetes.png',
-	markdown_path: '/blog/docker_kubenetes/docker_kubenetes.md'
+	title_img_path: '/blog/docker_kubernetes/docker_kubernetes.png',
+	markdown_path: '/blog/docker_kubernetes/docker_kubernetes.md'
 )
 
 Content.create(
