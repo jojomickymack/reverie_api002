@@ -51,12 +51,12 @@ Content.create(
 )
 
 Content.create(
-	url: 'blog/docker-vm',
+	url: 'blog/docker-kubernetes',
 	content_type: 'blog',
-	title: 'Docker: Contained Environments',
-	long_title: 'What Docker Is For And How To Use It On Windows',
-	title_img_path: '/blog/docker/docker.png',
-	markdown_path: '/blog/docker/docker.md'
+	title: 'Docker And Kubernetes With Gitlab',
+	long_title: 'How To Get Started With Gitlab, Docker And Kubernetes',
+	title_img_path: '/blog/docker_kubenetes/docker_kubenetes.png',
+	markdown_path: '/blog/docker_kubenetes/docker_kubenetes.md'
 )
 
 Content.create(
